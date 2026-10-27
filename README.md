@@ -12,4 +12,4 @@ I care about data quality, and about using data for good. I'm part of UMD's Ment
 - **BI:** Tableau, Excel
 
 ## 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/vidhya-m-u) · vidhyamu@umd.edu
+[LinkedIn](https://www.linkedin.com/in/vidhya-m-u) · muvidhya15@gmail.com
